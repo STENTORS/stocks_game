@@ -44,8 +44,6 @@ while(stop == False):
     #the acctual game
     stockVal = float(stockVal)
 
-    
-
     print("")
     print("You have £", money, sep="")
     print("You have", userStocks, "stocks")
