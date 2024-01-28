@@ -2,7 +2,6 @@
 from bs4 import BeautifulSoup
 
 #129.79 | 132.55 | 131.47 | 128.13 | 128.4 | 125.17
-
 #scraper
 def scraper():
     page = requests.get("https://finance.yahoo.com/quote/AMZN?p=AMZN")
